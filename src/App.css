@@ -1,0 +1,17 @@
+.section__padding {
+    padding: 4rem 6rem;
+}
+
+.flex__center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.app__bg {
+    background: var(--color-black);
+    background-position: center;
+    background-size: cover;
+    background-repeat: repeat;
+    background-attachment: fixed;
+}

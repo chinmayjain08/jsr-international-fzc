@@ -1,0 +1,158 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Clicker+Script&family=Poppins:wght@200;300;400;500;600;700&family=Source+Code+Pro:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Clicker+Script&family=Geologica:wght@300&family=Poppins:wght@200;300;400;500;600&family=Source+Code+Pro:wght@300&display=swap");
+
+.app_footer{
+    display: flex;
+    background-color: rgb(3, 2, 13);
+    width: 100%;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 20px 30px;
+    font-family: var(--font-base);
+    margin-top: 50px;
+}
+
+.app_footer-products{
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex: 1;
+    margin: 0px 40px;
+}
+
+.app_footer-intro{
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex: 1;
+    margin: 0px 40px;
+}
+
+.app_footer-intro-image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40px;
+}
+
+.app_footer-intro-image img{
+    width: 250px;
+}
+
+.app_footer-intro-content{
+    display: flex;
+    width: 80%;
+    justify-content: center;
+}
+
+.app_footer-intro-content p{
+    color: lightgray;
+    font-size: 18px;
+    line-height: 20px;
+    text-align: justify;
+}
+
+.app_footer-contact{
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex: 1;
+    margin: 0px 40px;
+}
+
+.app_footer-contact-heading{
+    margin-bottom: 24px;
+}
+
+.app_footer-contact-heading h2{
+    font-size: 20px;
+    font-weight: 540;
+    color: rgb(2, 114, 2);
+}
+
+.app_footer-contact-content h4{
+    margin: 10px 0px;
+    font-size: 16px;
+    font-weight: 480;
+    color: rgb(6, 163, 6);
+}
+
+.app_footer-contact-content li{
+    list-style: none;
+    display: flex;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
+.app_footer-contact-content p{
+    line-height: 20px;
+}
+
+.app_footer-products-heading{
+    margin-bottom: 24px;
+}
+
+.app_footer-products-heading h2{
+    font-size: 20px;
+    font-weight: 540;
+    color: rgb(2, 114, 2);
+    
+}
+
+
+.app_footer-products-content li{
+    list-style: none;
+    margin: 10px 0px;
+    line-height: 20px;
+}
+
+.app_footer-products-content span{
+    font-weight: 480;
+    color: rgb(6, 163, 6);
+}
+
+.head h2{
+    font-size: 20px;
+    font-weight: 540;
+    color: rgb(2, 114, 2);
+}
+
+.copyright{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    background-color: rgb(3, 2, 13);
+}
+.copyright p{
+    color: gray;
+
+}
+
+@media screen and (max-width: 768px) {
+    .app_footer{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .app_footer-contact{
+        width: 80%;
+        margin-bottom: 60px;
+
+    }
+
+    .app_footer-intro{
+        width: 80%;
+        margin-bottom: 60px;
+
+    }
+
+    .app_footer-products{
+        width: 80%;
+        margin-bottom: 60px;
+    }
+}

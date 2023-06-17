@@ -1,0 +1,164 @@
+.app_ContactUs{
+    margin-bottom: 120px;
+}
+
+#contact{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    padding: 20px 120px;
+}
+#contact li{
+    list-style: none;
+    display: flex;
+    padding: 18px 0px;
+    gap: 20px;
+}
+#contact i{
+    color: rgb(117, 117, 117);
+    padding-right: 18px;
+}
+#contact p{
+    color: rgb(117, 117, 117);
+    font-size: 18px;
+    margin: 0px;
+}
+#contact h2{
+    font-size: 40px;
+    line-height: 32px;
+    padding: 20px 0px;
+}
+#contact .details{
+    width: 40%;
+}
+#contact .map{
+    width: 50%;
+    height: 420px;
+}
+#contact.map iframe{
+    width: 100%;
+    height: 100%;
+}
+
+#form-details{
+    padding: 40px 80px;
+    margin: 80px 120px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid #e1e1e1;
+    border-radius: 8px;
+}
+
+#form-details form{
+    width:65%;
+    display:flex;
+    flex-direction:column;
+    align-items:flex-start;
+}
+
+#form-details form input,
+#form-details form textarea{            
+    width:100%;
+    padding:12px 15px;
+    outline:none;
+    margin-bottom:20px;
+    border: 1px solid #e1e1e1;
+}
+
+#form-details form button{
+    background-color: rgb(2, 114, 2);
+    color: #fff;
+    width: 100%;
+    height: 32px;
+    border: none;
+    border-radius: 4px;
+    text-align: center;
+}
+
+#form-details form h2{
+    font-size: 40px;
+    padding: 10px 0px;
+}
+
+#form-details .people div{
+    padding-bottom: 28px;
+    display: flex;
+    justify-content: flex-start;
+}
+
+#form-details .people p{
+    color: rgb(122, 122, 122);
+    font-size: 16px;
+    margin: 0px;
+    line-height: 30px;
+}
+
+#form-details .people img{
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+    margin-right: 15px;
+}
+
+/* for Contact Page */
+@media (max-width:920px){
+    #contact{
+        display:flex;
+        align-items:center;
+        justify-content:space-between;
+        padding: 20px 80px;
+    }
+    #contact .map{
+        width: 55%;
+    }
+    #contact .map iframe{
+        width: 100%;
+        height: 100%;
+    }
+    #form-details{
+        padding: 20px 40px;
+    }
+    #form-details form{
+        width: 50%;
+    }
+    #form-details .people{
+        padding: 20px;
+    }
+}
+
+@media (max-width: 480px){
+    #contact{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 10px 10px;
+    }
+    #contact .details{
+        width: 100%;
+    }
+    #contact .map{
+        width: 100%;
+    }
+    #form-details{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin: 0px;
+        border: none;
+    }
+    #form-details form{
+       
+        width: 100%;
+        border: 1px solid #e1e1e1;
+        padding: 20px 20px;
+    }
+    #form-details .people{
+        padding-top: 60px;
+        margin-top: 40px;
+        border: 1px solid #e1e1e1;
+    }
+    #page-header .contact-p{
+        font-size: 16px;
+    }
+}

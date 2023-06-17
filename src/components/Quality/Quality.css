@@ -1,0 +1,47 @@
+.content-section{
+    padding: 0px 80px;
+    margin: 0px;
+}
+
+.content-section h2{
+    font-size: 48px;
+    color: white;
+}
+
+.content-section p{
+    font-size: 24px;
+    color: white;
+}
+
+.images{
+    padding: 40px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.image-quality{
+    width: 30%;
+    margin: 20px;
+}
+
+.image-quality img{
+    width: 100%;
+}
+
+@media screen and (max-width: 540px) {
+    .images{
+        flex-direction: column;
+        align-items: center;
+    }
+    .image-quality{
+        width: 80%;
+    }
+    .content-section{
+        padding: 0px 40px;
+    }
+    .content-section p{
+        font-size: 18px;
+    }
+}

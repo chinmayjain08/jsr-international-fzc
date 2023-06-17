@@ -1,0 +1,521 @@
+{
+    "Aluminium": {
+        "title": "Aluminium",
+        "discription": "Aluminium is a silvery-white, lightweight metal. It is soft and malleable. Aluminium is used in a huge variety of products including cans, foils, kitchen utensils, window frames, beer kegs and aeroplane parts. This is because of its particular properties. Aluminium is commonly used in the construction industry for its lightweight nature, corrosion resistance, and strength. It is used in the production of window frames, doors, roofing materials, curtain walls, structural components, and cladding systems. Aluminium's versatility and ability to be easily fabricated make it a popular choice in modern architecture.",
+        "imag": [
+            {
+                "image1": "images/JSR_Inter_project_pics/Metal/Aluminium_Scraps/Aluminum-Scrap-Tense-1.jpeg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/Metal/Aluminium_Scraps/Aluminum-Scrap-Tense-3.jpeg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/Metal/Aluminium_Scraps/Aluminum-Scrap-Tense-4.jpeg"
+            }
+        ]
+    },
+    "Cast_Iron": {
+        "title": "CastIron",
+        "discription": "cast iron, an alloy of iron that contains 2 to 4 percent carbon, along with varying amounts of silicon and manganese and traces of impurities such as sulfur and phosphorus. It is made by reducing iron ore in a blast furnace. The liquid iron is cast, or poured and hardened, into crude ingots called pigs, and the pigs are subsequently remelted along with scrap and alloying elements in cupola furnaces and recast into molds for producing a variety of products.",
+        "imag": [
+            {
+                "image1": "images/JSR_Inter_project_pics/Metal/Cast_Iron/Cast-Iron-1.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/Metal/Cast_Iron/Cast-Iron-2.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/Metal/Cast_Iron/Cast-Iron-2.jpeg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/Metal/Cast_Iron/Cast-Iron-4.jpeg"
+            }
+        ]
+    },
+    "Compressor_Scrap": {
+        "title": "Compressor_Scrap",
+        "discription": "Compressor scrap refers to discarded or waste compressors that are no longer functional or in use.This scrap material can consist of various components, including the metal casing, motor, coils, pipes, and other parts. The composition of compressor scrap primarily depends on the type and size of the compressor, as well as its specific application.It's worth noting that compressor scrap may also contain substances of environmental concern, such as refrigerants or oils. These substances need to be properly handled and disposed of according to environmental regulations to prevent any adverse impacts on human health and the environment. Overall, compressor scrap represents a source of recyclable materials and plays a role in reducing waste and conserving resources through proper recycling and disposal practices.",
+        "imag": [
+            {
+                "image1": "images/JSR_Inter_project_pics/Metal/Compressor_Scrap/Compressor-Scrap-1.jpeg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/Metal/Compressor_Scrap/Compressor-Scrap-6.jpeg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/Metal/Compressor_Scrap/Compressor-Scrap-9.jpeg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/Metal/Compressor_Scrap/Compressor-Scrap-10.jpeg"
+            }
+        ]
+    },
+    "Electric_Motor": {
+        "title": "Electric_Motor",
+        "discription": "Electric motor waste refers to discarded or obsolete electric motors that are no longer functional or in use. Like any other electronic or mechanical device, electric motors have a lifespan and may eventually become inefficient, damaged, or outdated, leading to their disposal or recycling.It's important to note that electric motors may also contain certain hazardous substances, such as rare earth magnets, lubricants, or insulation materials. These substances require careful handling and disposal to prevent harm to human health and the environment. Recycling facilities are equipped to deal with these hazardous components in an environmentally responsible manner.",
+        "imag": [
+            {
+                "image1": "images/JSR_Inter_project_pics/Metal/Electric_Motor/Electric-Motor-1.jpeg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/Metal/Electric_Motor/Electric-Motor-4.jpeg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/Metal/Electric_Motor/Electric-Motor-6.jpeg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/Metal/Electric_Motor/Electric-Motor-8.jpeg"
+            }
+        ]
+    },
+    "Stainless_Steel": {
+        "title": "Stainless_Steel",
+        "discription": "Stainless steel is a type of steel alloy that contains a minimum of 10.5% chromium by mass. It is highly corrosion-resistant and has a wide range of applications in various industries due to its desirable propertie.Stainless steel is available in various grades and finishes, each designed for specific applications and environments. Common stainless steel grades include 304 (general-purpose), 316 (marine and corrosive environments), and 430 (indoor applications). Overall, stainless steel's combination of strength, corrosion resistance, hygiene, and aesthetic appeal makes it a versatile material used in a wide range of industries, from construction and manufacturing to food processing and design.",
+        "imag": [
+            {
+                "image1": "images/JSR_Inter_project_pics/Metal/Stainless_Steel/SS200-SERIES-5.jpeg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/Metal/Stainless_Steel/SS304-1.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/Metal/Stainless_Steel/SS304-2.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/Metal/Stainless_Steel/SS304-3.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/Metal/Stainless_Steel/SS304-5.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/Metal/Stainless_Steel/SS400-1.jpeg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/Metal/Stainless_Steel/SS400-3.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/Metal/Stainless_Steel/SS400.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/Metal/Stainless_Steel/SS430-2.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/Metal/Stainless_Steel/SS430-4.jpeg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/Metal/Stainless_Steel/SS430-7.jpeg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/Metal/Stainless_Steel/SS430-31.jpg"
+            }
+        ]
+    },
+    "KRAFT_CARRIER_BOARD": {
+        "title": "KRAFT_CARRIER_BOARD",
+        "discription": "Kraft carrier board, also known as kraft paperboard or kraft linerboard, is a type of packaging material that is widely used in the packaging industry. It is made from a sturdy, thick paperboard that offers strength, durability, and versatility.Kraft carrier board is a versatile and widely used packaging material due to its strength, printability, sustainability, and protective qualities. Its popularity stems from its ability to meet the diverse packaging needs of different industries while also offering environmental benefits.",
+        "imag": [
+            {
+                "image1": "images/JSR_Inter_project_pics/Paper/KRAFT_CARRIER_BOARD/KRAFT-CARRIER-BOARD-1.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/Paper/KRAFT_CARRIER_BOARD/KRAFT-CARRIER-BOARD-3.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/Paper/KRAFT_CARRIER_BOARD/KRAFT-CARRIER-BOARD-4.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/Paper/KRAFT_CARRIER_BOARD/KRAFT-CARRIER-BOARD-7.jpg"
+            }
+        ]
+    },
+    "KRAFT_UNSHREDDED": {
+        "title": "KRAFT_UNSHREDDED",
+        "discription": "KRAFT_UNSHREDDED CARRIER_BOARD refers to a carrier board made of unshredded or intact kraft paper or kraft linerboard. This would imply that the carrier board is composed of a solid sheet or board of kraft paper material rather than shredded or fragmented pieces. Kraft paper or kraft linerboard is a type of paperboard that is strong, durable, and typically brown in color. It is commonly used in packaging applications, including as carrier boards for various products. Carrier boards provide stability, support, and protection to packaged items during transportation and handling.",
+        "imag": [
+            {
+                "image1": "images/JSR_Inter_project_pics/Paper/KRAFT_UNSHREDDED/KRAFT-UNSHREDDED-1.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/Paper/KRAFT_UNSHREDDED/KRAFT-UNSHREDDED-2.jpg"
+            }
+        ]
+    },
+    "VIRGIN_KRAFT_LINER_BOARD": {
+        "title": "VIRGIN_KRAFT_LINER_BOARD",
+        "discription": "Virgin kraft linerboard refers to a type of linerboard made from virgin, or non-recycled, kraft pulp fibers. Kraft pulp is produced through a chemical process that converts wood fibers into a strong and durable material. Virgin kraft linerboard is typically manufactured using high-quality virgin fibers obtained from trees like softwood or hardwood.Virgin kraft linerboard offers reliable strength, printability, and versatility for packaging applications. Its use is prevalent in various industries, including food and beverage, consumer goods, e-commerce, and industrial packaging.",
+        "imag": [
+            {
+                "image1": "images/JSR_Inter_project_pics/Paper/VIRGIN_KRAFT_LINER_BOARD/Virgin-Kraft-liner-board-1.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/Paper/VIRGIN_KRAFT_LINER_BOARD/Virgin-Kraft-liner-board-2.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/Paper/VIRGIN_KRAFT_LINER_BOARD/Virgin-Kraft-liner-board-3.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/Paper/VIRGIN_KRAFT_LINER_BOARD/Virgin-Kraft-liner-board-4.jpg"
+            }
+        ]
+    },
+    "EPS": {
+        "title": "EPS",
+        "discription": " EPS stands for Expanded Polystyrene. It is a lightweight, rigid, and insulating plastic foam material that is commonly used in a wide range of applications.Overall, EPS is a versatile material with excellent insulating properties, making it suitable for a wide range of applications, including packaging, construction, and crafting. It offers lightweight protection, thermal insulation, and design flexibility.",
+        "imag": [
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/EPS/EPS-1-1.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/EPS/EPS-2-1.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/EPS/EPS-3-1.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/EPS/EPS-4.jpg"
+            }
+        ]
+    },
+    "HDPE": {
+        "title": "HDPE",
+        "discription": "HDPE stands for High-Density Polyethylene. It is a versatile thermoplastic polymer that is widely used in various industries for its excellent properties and applications.HDPE's strength, durability, chemical resistance, and recyclability make it a popular choice in multiple industries for a wide range of applications.",
+        "imag": [
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/HDPE/HDPE-DRUMS-1.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/HDPE/HDPE-PIPE-1-2.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/HDPE/HDPE-PIPE-2-2.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/HDPE/HDPE-PIPE-3-2.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/HDPE/HDPE-UNWASHED-DRUM-REGRIND-1-1.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/HDPE/IMG_0243.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/HDPE/IMG_0250.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/HDPE/IMG_0251.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/HDPE/IMG_0256.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/HDPE/IMG_1309.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/HDPE/IMG_1315.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/HDPE/IMG_1316.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/HDPE/IMG_1323.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/HDPE/IMG_1327.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/HDPE/IMG_1330.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/HDPE/IMG_5015.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/HDPE/IMG_5024.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/HDPE/IMG_5029.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/HDPE/IMG_5030.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/HDPE/IMG_5165.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/HDPE/IMG_5168.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/HDPE/IMG_20180419_161424.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/HDPE/IMG_20180419_161652.jpg"
+            }
+        ]
+    },
+    "LDPE": {
+        "title": "LDPE",
+        "discription": "LDPE stands for Low-Density Polyethylene. It is a thermoplastic polymer known for its flexibility, toughness, and versatility. LDPE is one of the most widely used plastics globally.LDPE's flexibility, toughness, chemical resistance, and moisture barrier properties make it suitable for a wide range of applications in packaging, agriculture, electrical insulation, and more. Its versatility and cost-effectiveness have contributed to its widespread use in various industries.",
+        "imag": [
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/LDPE/image1.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/LDPE/IMG_4450.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/LDPE/IMG_5144.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/LDPE/IMG_5145.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/LDPE/IMG_5150.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/LDPE/IMG_5160.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/LDPE/LLDPE-INJ-REGRIND-1-1.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/LDPE/LLDPE-INJ-REGRIND-2-1.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/LDPE/LLDPE-INJ-REGRIND-3-1.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/LDPE/LLDPE-INJ-REGRIND-4.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/LDPE/LLDPE-REPRO-1-2.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/LDPE/LLDPE-REPRO-2-2.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/LDPE/LLDPE-REPRO-3-2.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/LDPE/LLDPE-ROTO-1-2.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/LDPE/LLDPE-ROTO-2-2.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/LDPE/LLDPE-ROTO-3-2.jpg"
+            }
+        ]
+    },
+    "PC": {
+        "title": "PC",
+        "discription": "PC stands for Polycarbonate. It is a tough and transparent thermoplastic polymer that is widely used in various industries for its exceptional properties.PC is used in a wide range of applications, including automotive parts, electrical components, optical lenses, safety equipment, construction materials, consumer electronics, and household appliances. Its combination of strength, transparency, heat resistance, and electrical insulation properties makes it a versatile material for diverse industrie",
+        "imag": [
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/PC/6de7336f-3d34-42c4-9fa2-5ca13f900cdd-1.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/PC/image1-1.jpeg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/PC/image1-2.jpeg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/PC/image1-3.jpeg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/PC/image1-4.jpeg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/PC/image2-2.jpeg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/PC/image2-3.jpeg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/PC/image2-4.jpeg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/PC/image3-1.jpeg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/PC/image3.jpeg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/PC/image4-1.jpeg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/PC/image4.jpeg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/PC/IMG_4034.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/PC/IMG_7267.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/PC/PC-LUMPS-1.jpeg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/PC/PC-LUMPS-1.jpg"
+            }
+        ]
+    },
+    "PET": {
+        "title": "PET",
+        "discription": "PET stands for Polyethylene Terephthalate. It is a versatile and widely used thermoplastic polymer that is known for its clarity, strength, and recyclability.PET is commonly used in the packaging industry, particularly for beverage bottles, food containers, and personal care product packaging. Its combination of clarity, strength, recyclability, and barrier properties makes it a popular choice for various consumer and industrial applications.",
+        "imag": [
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/PET/PET-BOTTLES-2-2.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/PET/PET-BOTTLES-4-1.jpg-1.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/PET/PET-FLAKES-2-1.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/PET/PET-FLAKES-3-1.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/PET/PET-FLAKES-4-1.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/PET/PET-FLAKES-UN-WASHED-1-1.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/PET/PET-FLAKES-UN-WASHED-2-1.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/PET/PET-LUMPS-1-1.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/PET/PET-LUMPS-2-2.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/PET/PET-LUMPS-3.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/PET/PET-PREFORM-1-2.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/PET/PET-PREFORM-2-2.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/PET/PET-PREFORM-3-2.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/PET/PET-ROLLS-2-2.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/PET/PET-ROLLS-5.JPG-1.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/PET/PET-STRIPS-1-1.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/PET/PET-STRIPS-2.jpg"
+            }
+        ]
+    },
+    "POM": {
+        "title": "POM",
+        "discription": "POM stands for Polyoxymethylene, which is a high-performance engineering thermoplastic. It is also commonly known as acetal or by its trade name Delrin®.POM's combination of mechanical properties, chemical resistance, dimensional stability, and machinability make it suitable for a wide range of industrial and consumer applications. Its use is prevalent in automotive, electrical, machinery, and consumer goods industries.",
+        "imag": [
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/POM/POM-LUMPS-1-1.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/POM/POM-LUMPS-2.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/POM/POM-POWDER-1-1.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/POM/POM-POWDER-2.jpg"
+            }
+        ]
+    },
+    "PP": {
+        "title": "PP",
+        "discription": " Polypropylene is a type of thermoplastic polymer that is widely used in various applications due to its favorable properties. It is known for its high melting point, chemical resistance, durability, and flexibility. PP is commonly used in packaging, automotive parts, textiles, medical devices, and household products. It is also recyclable, which contributes to its popularity as a sustainable material.",
+        "imag": [
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/PP/89dc56e1-6bd4-4d78-8abb-62bc44ef5dbd.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/PP/PP-BIG-BAGS-1-1.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/PP/PP-BIG-BAGS-2-1.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/PP/PP-CAPS-REGRIND-1-2.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/PP/PP-CAPS-REGRIND-3-2.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/PP/PP-CAPS-REGRIND-4-2.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/PP/PP-NON-WOVEN-1-2.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/PP/PP-NON-WOVEN-2-2.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/PP/PP-NON-WOVEN-3-2.jpg"
+            }
+        ]
+    },
+    "PS": {
+        "title": "PS",
+        "discription": "PS typically refers to polystyrene, which is a versatile and widely used plastic polymer. Polystyrene is a rigid, transparent, and brittle material that can be found in various forms.Polystyrene is a widely used plastic due to its low cost, versatility, and ease of processing. However, it is important to note that polystyrene has drawn some environmental concerns due to its persistence in the environment and challenges with recycling.",
+        "imag": [
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/PS/PS-CUPS-1-2.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/PS/PS-CUPS-2-2.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/PS/PS-CUPS-3-2.jpg"
+            }
+        ]
+    },
+    "PVC": {
+        "title": "PVC",
+        "discription": "PVC stands for polyvinyl chloride, which is a widely used type of plastic. PVC is a versatile thermoplastic polymer known for its durability, versatility, and cost-effectiveness. It is created through the polymerization of vinyl chloride monomers.It is worth noting that PVC can have environmental and health concerns associated with it. The production and disposal of PVC can release toxic chemicals, and certain additives used in PVC formulations can pose risks. However, efforts are being made to develop more environmentally friendly alternatives and improve the recycling and disposal methods for PVC.",
+        "imag": [
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/PVC/5c6852cf-85fe-4852-bcca-8483bb81e6de.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/PVC/6b69ef4c-b163-48f5-8483-47f3a2cdc9f0.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/PVC/56ef8948-35ee-4459-a74b-6a68dfd8c486.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/plastic/PVC/f917c925-f417-4187-925b-61550dc80b11.jpg"
+            }
+        ]
+    },
+    "Rubber": {
+        "title": "Rubber",
+        "discription": "Rubber is a versatile and elastic material that is derived from the sap or latex of certain plants or synthesized through chemical processes. It is known for its unique properties, including flexibility, durability, and elasticity. Rubber has a wide range of applications across various industries. It's important to note that there are different types of rubber, including natural rubber (derived from latex) and synthetic rubber (produced through chemical processes). Both types have their own advantages and specific applications.",
+        "imag": [
+            {
+                "image1": "images/JSR_Inter_project_pics/Rubber/IMG-20171206-WA0008.jpg"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/Rubber/USED-BUTYL-RUBBER-TUBES-1.png"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/Rubber/USED-BUTYL-RUBBER-TUBES-3.png"
+            },
+            {
+                "image1": "images/JSR_Inter_project_pics/Rubber/USED-BUTYL-RUBBER-TUBES-4.png"
+            }
+        ]
+    }
+}

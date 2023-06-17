@@ -1,0 +1,133 @@
+@import url("https://fonts.googleapis.com/css2?family=Clicker+Script&family=Poppins:wght@200;300;400;500;600;700&family=Source+Code+Pro:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Clicker+Script&family=Geologica:wght@300&family=Poppins:wght@200;300;400;500;600&family=Source+Code+Pro:wght@300&display=swap");
+
+.product-container {
+  /* padding: 60px; */
+  /* background:url(../../constants/images/JSR_Inter_project_pics/Metal/Aluminium_Scraps/Aluminum-Scrap-Tense-1.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat; */
+  /* height: 100vh; */
+  /* background-color: rgb(7 5 27 ); */
+  margin-bottom: 20px;
+  color: white;
+}
+
+.main {
+  padding: 30px 70px !important;
+  /* background-color: rgb(16 14 43 ); */
+  width: 100%;
+  /* border: 2px solid white; */
+  /* margin-top: 20px; */
+}
+
+.product-itme-heading {
+  margin-bottom: 60px;
+  padding: 4px;
+  border-bottom: 2px solid rgb(2, 114, 2);
+  font-size: 50px;
+
+  letter-spacing: 5px;
+}
+
+.product-itme-heading span {
+  color: rgb(2, 114, 2);
+  font-family: "Clicker Script";
+  font-size: 70px;
+  font-weight: bold;
+}
+
+.discription-part {
+  display: flex;
+  justify-content: space-around;
+
+  gap: 20%;
+  
+  
+}
+
+.image {
+    padding: 20px;
+    border-top: 5px solid rgb(2, 114, 2);
+    border-bottom: 5px solid rgb(2, 114, 2);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  margin-right: 40px;
+}
+.discription-part img {
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    /* height: 40%; */
+  /* margin-right: 30px; */
+}
+
+
+.product-item-discription {
+    font-size: 20px;
+  /* text-align: start; */
+  text-align: justify;
+  /* word-spacing: normal; */
+}
+
+.gallery {
+  margin-top: 20px;
+  /* border: 2px solid green; */
+}
+
+.gallery-heading {
+  text-align: center;
+  font-size: 60px;
+  letter-spacing: 4px;
+  margin-bottom: 10px;
+ 
+  /* font-family: "Clicker Script"; */
+  text-transform: uppercase;
+}
+.gallery-heading span {
+  color: rgb(2, 114, 2);
+  font-weight: bold;
+  font-size: 80px;
+  font-family: "Clicker Script";
+  text-transform: uppercase;
+}
+
+.image-part {
+  display: flex;
+  justify-content:space-around;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.image-div {
+  padding: 10px;
+
+  margin: 20px 0px;
+  /* background-color: rgb(35, 35, 35); */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.image-div img {
+  width: 300px;
+  
+    height:300px;
+    transition: all 0.2s ;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.image-div img:hover{
+transform: translateY(-14px);
+
+}
+
+
+@media(max-width:1058px){
+  .image{
+    display: none;
+  }
+}
