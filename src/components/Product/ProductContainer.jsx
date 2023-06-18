@@ -1,10 +1,8 @@
 import React from 'react'
 import { Link ,Outlet} from 'react-router-dom'
 import './product.css'
-// import photo1 from '../../constants/images/JSR_Inter_project_pics/plastic/PP/PP-CAPS-REGRIND-3-2.jpg'
-// import photo2 from '../../constants/images/JSR_Inter_project_pics/Rubber/USED-BUTYL-RUBBER-TUBES.png'
-// import photo3 from '../../constants/images/JSR_Inter_project_pics/Metal/Aluminium_Scraps/Aluminum-Scrap-Tense-3-3.jpeg'
-// import photo4 from '../../constants/images/JSR_Inter_project_pics/Paper/VIRGIN_KRAFT_LINER_BOARD/Virgin-Kraft-Liner-board-5.jpg'
+
+
 
 function ProductContainer() {
     return (
@@ -37,7 +35,7 @@ function ProductContainer() {
             </div>
             </Link>
             <Link to={"/paper"}>  <div className="productCard">
-                <img src="/images/JSR_Inter_project_pics/Paper/VIRGIN_KRAFT_LINER_BOARD/Virgin-Kraft-Liner-board-4.jpg" alt="" />
+                <img src="/images/JSR_Inter_project_pics/Paper/VIRGIN_KRAFT_LINER_BOARD/Virgin-Kraft-liner-board-2.jpg" alt="" />
                 <div className="cardText">
                   <h4>PAPER</h4>
                 </div>
