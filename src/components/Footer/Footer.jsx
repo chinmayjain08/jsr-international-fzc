@@ -4,6 +4,7 @@ import MailIcon from '@mui/icons-material/Mail';
 import LocationOnIcon from '@mui/icons-material/LocationOn';
 import CallIcon from '@mui/icons-material/Call';
 import SmartphoneIcon from '@mui/icons-material/Smartphone';
+import { Link } from "react-router-dom";
 
 function Footer() {
   return (
@@ -54,19 +55,19 @@ function Footer() {
           <div className="app_footer-products-content">
             <ul>
               <li>
-                <span>Plastics</span> (LDPE, LLDPE.HDPE, PP, PET, PS, PC, PMMA,
+                <Link to={"/plastic"}><span>Plastics</span></Link> (LDPE, LLDPE.HDPE, PP, PET, PS, PC, PMMA,
                 POM, ABS, SAN etc)
               </li>
               <li>
-                <span>Rubber</span> (used inner butyl rubber tubes & crumb
+                <Link to={"/rubber"}><span>Rubber</span></Link> (used inner butyl rubber tubes & crumb
                 rubber etc)
               </li>
               <li>
-                <span>Metals</span> (Non ferrous metals-Steel scrap and
+                <Link to={"/metal"}><span>Metals</span></Link> (Non ferrous metals-Steel scrap and
                 Aluminium scrap)
               </li>
               <li>
-                <span>Paper</span>
+              <Link to={"/paper"}><span>Paper</span></Link>
               </li>
               <li>
                 <span>All kinds of Recyclables</span>
@@ -77,6 +78,9 @@ function Footer() {
       </div>
       <div className="copyright">
         <p>2023 &copy;Copyright Reserved | JSR International FZC</p>
+      </div>
+      <div className="copyright">
+        <a href="mailto:business.web.trifecta@gmail.com"><p>Designed and Created By : Trifecta</p></a>
       </div>
     </>
   );

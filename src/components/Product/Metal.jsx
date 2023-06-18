@@ -3,6 +3,7 @@ import './product.css'
 import ItemHero from './ItemHero'
 import { Link } from 'react-router-dom'
 import Navbar from '../Navbar/Navbar'
+import Carousal from '../Carousal/Carousal'
 
 
 
@@ -25,6 +26,7 @@ function Metal() {
                 <Link className="items" to={"/electric_motor"}>Electric Motor</Link>
                 <Link className="items" to={"/stainless_still"}>Stainless Steel</Link>
             </div>
+            <Carousal/>
         </div>
     )
 }

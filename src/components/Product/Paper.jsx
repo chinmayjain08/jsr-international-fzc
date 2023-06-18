@@ -3,10 +3,8 @@ import { Link } from 'react-router-dom'
 import './product.css'
 import ItemHero from './ItemHero'
 import Navbar from '../Navbar/Navbar'
-// import photo1 from '../../constants/images/JSR_Inter_project_pics/Paper/KRAFT_CARRIER_BOARD/KRAFT-CARRIER-BOARD-1-1.jpg'
-// import photo2 from '../../constants/images/JSR_Inter_project_pics/Paper/KRAFT_UNSHREDDED/KRAFT-UNSHREDDED-2.jpg'
-// import photo3 from '../../constants/images/JSR_Inter_project_pics/Paper/VIRGIN_KRAFT_LINER_BOARD/Virgin-Kraft-Liner-board-5.jpg'
-// import photo4 from '../../constants/images/JSR_Inter_project_pics/Paper/KRAFT_CARRIER_BOARD/kcb-kraft-carrier-board-9.webp'
+import Carousal from '../Carousal/Carousal'
+
 
 function Paper() {
     const data={
@@ -24,6 +22,7 @@ function Paper() {
                 <Link className="items" to={"/kraft_unshredded"}>KRAFT UNSHREDDED</Link>
                 <Link className="items" to={"/kraft_carrier_board"}>KRAFT CARRIER BOARD</Link>
             </div>
+            <Carousal/>
         </div>
     )
 }

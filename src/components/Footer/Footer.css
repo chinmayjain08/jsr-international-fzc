@@ -92,6 +92,11 @@
     line-height: 20px;
 }
 
+.app_footer-contact-content p:hover {
+    cursor: pointer;
+    color: green;
+}
+
 .app_footer-products-heading{
     margin-bottom: 24px;
 }
@@ -119,6 +124,11 @@
     font-size: 20px;
     font-weight: 540;
     color: rgb(2, 114, 2);
+}
+
+.app_footer-products-content li a{
+    text-decoration: none;
+    cursor: pointer;
 }
 
 .copyright{
@@ -155,4 +165,12 @@
         width: 80%;
         margin-bottom: 60px;
     }
+}
+
+.copyright a{
+    text-decoration: none;
+}
+
+.copyright a p:hover{
+    color: rgb(174, 174, 246);
 }

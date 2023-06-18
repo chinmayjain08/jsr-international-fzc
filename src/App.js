@@ -21,6 +21,7 @@ import Plastic from './components/Product/Plastic';
 import Metal from './components/Product/Metal';
 import ContactUs from './components/ContactUs/ContactUs';
 import Quality from './components/Quality/Quality';
+import ScrollToTop from './components/scrollToTop/scrollToTop';
 
 // import Strengths from './components/Strengths/Strengths';
 
@@ -30,6 +31,8 @@ function App() {
     <Router>
 
     <div className='app__bg'>
+
+    <ScrollToTop/>
     
     <Routes>
           <Route path="/" element={ <Intro/>} />

@@ -1,5 +1,6 @@
 import React from 'react'
 import './product.css'
+import Carousal from '../Carousal/Carousal'
 
 function ItemHero(props) {
     return (
@@ -24,7 +25,7 @@ function ItemHero(props) {
                     </div>
                 </div>
                 <div className="heroText">
-                    <h1>{props.title}</h1>
+                    <h1><span className='heading-initial'>{props.title[0]}</span>{props.title.slice(1)}</h1>
                     <p>{props.description}</p>
                 </div>
             </div>
