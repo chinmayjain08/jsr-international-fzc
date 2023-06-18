@@ -3,6 +3,8 @@ import React from "react";
 import "./Carousal.css";
 import { Link } from "react-router-dom";
 
+
+
 function Carousal() {
   return (
     <div className="app_carousal">
@@ -14,7 +16,7 @@ function Carousal() {
         >
           <div class="carousel-inner">
             <div class="carousel-item active" data-bs-interval="2500">
-              <img src="/images/JSR_Inter_project_pics/plastic/PET/PET-FLAKES-4-1.jpg" class="d-block" alt="..." />
+              <img src="/images/JSR_Inter_project_pics/plastic/PC/IMG_4034.jpg" class="d-block" alt="..." />
             </div>
             <div class="carousel-item" data-bs-interval="2500">
               <img src="/images/JSR_Inter_project_pics/Paper/KRAFT_UNSHREDDED/KRAFT-UNSHREDDED-2.jpg" class="d-block" alt="..." />
